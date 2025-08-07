@@ -1,0 +1,5 @@
+Pacienta dati, , , ,
+ID,Vecums,Spiediens (SBP),Spiediens (DBP),Statuss
+101,62,145,90,OK
+102,73,155,95,Borderline
+103,65,160,85,High
